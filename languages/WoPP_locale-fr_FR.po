@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WoPP\n"
+"POT-Creation-Date: 2015-10-09 12:50+0100\n"
+"PO-Revision-Date: 2015-10-09 12:52+0100\n"
+"Last-Translator: Bastien Ho <bastienho@urbancube.fr>\n"
+"Language-Team: Bastien Ho <b@stienho.fr>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+
+#: ../wopp.php:28
+msgid "WoPP_Name"
+msgstr "WoPP Nom"
+
+#: ../wopp.php:29
+msgid "WoPP_Description"
+msgstr "WoPP Description"
+
+#~ msgid "Read more"
+#~ msgstr "Lire la suite"
+
+#~ msgid "Edit"
+#~ msgstr "Éditer"
+
+#~ msgid "Display a beautiful link"
+#~ msgstr "Affiche un beau lien"
+
+#~ msgid "Call To Action"
+#~ msgstr "Appel à l'action"
+
+#~ msgid "Light"
+#~ msgstr "Clair"
+
+#~ msgid "Dark"
+#~ msgstr "Sombre"
+
+#~ msgid "Title"
+#~ msgstr "Titre"
+
+#~ msgid "link"
+#~ msgstr "lien"
+
+#~ msgid "Button"
+#~ msgstr "Bouton"
+
+#~ msgid "Template"
+#~ msgstr "Modèle"
+
+#~ msgid "Height"
+#~ msgstr "Hauteur"
+
+#~ msgid "Normal"
+#~ msgstr "Normal"
+
+#~ msgid "Huge"
+#~ msgstr "Gros"
+
+#~ msgid "Background"
+#~ msgstr "Fond"
+
+#~ msgid "Display some beautiful pictures"
+#~ msgstr "Affiche de belles images"
+
+#~ msgid "Diaporama"
+#~ msgstr "Diaporama"
+
+#~ msgid "Basic"
+#~ msgstr "Basique"
+
+#~ msgid "Item #%s"
+#~ msgstr "Élément n°%s"
+
+#~ msgid "Remove"
+#~ msgstr "Supprimer"
+
+#~ msgid "Link"
+#~ msgstr "Lien"
+
+#~ msgid "Features"
+#~ msgstr "Unes"
+
+#~ msgid "Display a mozaic of features"
+#~ msgstr "Affiche une mosaïque de unes"
+
+#~ msgid "Add an item"
+#~ msgstr "Ajouter une case"
+
+#~ msgid "Icon"
+#~ msgstr "Icône"
+
+#~ msgid "Pick an icon"
+#~ msgstr "Sélectionner une icône"
+
+#~ msgid "None"
+#~ msgstr "Aucun-e"
+
+#~ msgid "Iconify something"
+#~ msgstr "Icônifier quelque chose"
+
+#~ msgid "Link to a category, a post or a page with an explicit icon."
+#~ msgstr "Lien vers une catégorie, un artile ou une page avec une icône explicite."
+
+#~ msgid "Display an image"
+#~ msgstr "Affiche une image"
+
+#~ msgid "Image"
+#~ msgstr "Image"
+
+#~ msgid "Class"
+#~ msgstr "Classe"
+
+#~ msgid "Style"
+#~ msgstr "Style"
+
+#~ msgid "Optional mobile version"
+#~ msgstr "Version mobile optionelle"
+
+#~ msgid "Optional retina version"
+#~ msgstr "Version retina optionelle"
+
+#~ msgid "List of posts"
+#~ msgstr "Liste d'articles"
+
+#~ msgid "Posts list"
+#~ msgstr "Liste d'articles"
+
+#~ msgid "Posts to display"
+#~ msgstr "Articles à afficher"
+
+#~ msgid "Categories"
+#~ msgstr "Catégories"
+
+#~ msgid "Tags"
+#~ msgstr "Étiquettes"
+
+#~ msgid "Do not redisplay posts"
+#~ msgstr "Ne pas ré-afficher les articles"
+
+#~ msgid "Format"
+#~ msgstr "Format"
+
+#~ msgid "Post format"
+#~ msgstr "Format de l'article"
+
+#~ msgid "Order"
+#~ msgstr "Ordre"
+
+#~ msgid "Date"
+#~ msgstr "Date"
+
+#~ msgid "Desc"
+#~ msgstr "Desc"
+
+#~ msgid "Asc"
+#~ msgstr "Asc"
+
+#~ msgid "Display a beautiful newsletter subsribe form"
+#~ msgstr "Affiche un beau formulaire d'inscription"
+
+#~ msgid "Newsletter subscribe form"
+#~ msgstr "Formulaire d'inscription newsletter"
+
+#~ msgid "Cite a post on a social media"
+#~ msgstr "Cite un post sur un réseau social"
+
+#~ msgid "Social quote"
+#~ msgstr "Citation sociale"
+
+#~ msgid "Follow us"
+#~ msgstr "Suivez nous"
+
+#~ msgid "Social media"
+#~ msgstr "Réseaux sociaux"
+
+#~ msgid "Username"
+#~ msgstr "nom d'utilisat-eur/rice"
+
+#~ msgid "Links to twitter, facebook, instagram, social medias."
+#~ msgstr "Liens vers les réseaux sociaux twitter, facebook, instagram"
+
+#~ msgid "Social media button"
+#~ msgstr "Bouton de réseau sociaux"
+
+#~ msgid "Display a beautiful tweet"
+#~ msgstr "Affiche un beau tweet"
+
+#~ msgid "Tweet highlight"
+#~ msgstr "Exergue de tweet"
+
+#~ msgid "Reply"
+#~ msgstr "Répondre"
+
+#~ msgid "Retweet"
+#~ msgstr "Retweet"
+
+#~ msgid "Favori"
+#~ msgstr "Favori"
+
+#~ msgid "Home builder area"
+#~ msgstr "Espace de construction de l'accueil"
+
+#~ msgid "Display this area by adding [wihobu_area] in any page"
+#~ msgstr "Affichez cet emplacement en ajoutant [wihobu_area] dans n'importe quelle page"
+
+#~ msgid "Are you sure that you want to delete this item ?"
+#~ msgstr "Voulez-vous réellement supprimer cet élément ?"
+
+#~ msgid "Pick an image"
+#~ msgstr "Choisir une image"
+
+#~ msgid "Remove image"
+#~ msgstr "Supprimer l'image"
+
+#~ msgid "none"
+#~ msgstr "aucune"
+
+#~ msgid "4 features posts"
+#~ msgstr "4 Unes"
+
+#~ msgid "Sentence"
+#~ msgstr "Phrase"
