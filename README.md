@@ -1,5 +1,5 @@
 # WoPP
-Root starter plugin template for WordPress
+Root starter template for a WordPress Plugin
 
 Start populating this plugin by a few search & replace:
 
