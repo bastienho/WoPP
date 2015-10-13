@@ -25,7 +25,7 @@ class WoPP_ClassName{
      * Localize main datas
      */
     function localize(){
-        __('WoPP_Name', 'wp_candidates');
+        __('WoPP_Name', 'WoPP_locale');
         __('WoPP_Description', 'WoPP_locale');
     }
 }
